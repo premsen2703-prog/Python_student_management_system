@@ -1,0 +1,15 @@
+student-management-system/
+│
+├── app.py
+├── database.db
+│
+├── templates/
+│   ├── login.html
+│   ├── dashboard.html
+│   ├── add_student.html
+│   ├── edit_student.html
+│
+├── static/
+│   ├── style.css
+│
+└── requirements.txt
